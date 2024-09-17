@@ -1,7 +1,23 @@
 [
   {
+    "name": "Myrion Brightleaf",
+    "pubkey": "npub107ammg3j2msqmtmwwf7xgfecslnzwnt567x6jwhsa5pvzzzd8ghs9spw02"
+  },
+  {
+    "name": "Kieran Halstead",
+    "pubkey": "npub10u3f6y43se8r04vmdlukgyqhphxfcjyeujkrtnufghua6qlwgemqkpsg59"
+  },
+  {
     "name": "不審者情報",
     "pubkey": "npub120hur8kpufu44h6qll50ywaesxk2qxvek295hm4x0ur7cgqj8jvq7pqksp"
+  },
+  {
+    "name": "Quinn Holloway",
+    "pubkey": "npub13ju2rwqye3ayslwd3wg025zzejsvx3nuzsqce4rm3m6u2cemtv7q2sj7ku"
+  },
+  {
+    "name": "TESTNET•GIT•BAK",
+    "pubkey": "npub13m8de70e6jr22np6elxqckgfpu7hszaduk867rmwhzpe2j3a2g2sh7qde2"
   },
   {
     "name": "wordcloud",
@@ -12,6 +28,22 @@
     "pubkey": "npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv"
   },
   {
+    "name": "Nolan Grafton",
+    "pubkey": "npub15a220cqt23ge29kjv67rhjs09l4ly268afpar0vruk2dkd09t3fqllpe6f"
+  },
+  {
+    "name": "Gizmo Digital",
+    "pubkey": "npub15klex9f43xty0h7dpp6rsjkhmptwc8wglmvjmaa8rvq30ayp7q6srls9vt"
+  },
+  {
+    "name": "🔫狙撃屋13bot🔫",
+    "pubkey": "npub163qhxuj7sf4hagnzrayrfypfh5cld2lshcqzqsqpqc53fy6m87sqlrvjv9"
+  },
+  {
+    "name": "Jasmine Josslyn",
+    "pubkey": "npub1662gxg2ng2c3xrkat0lqctjgyuwg78ddz68sx28q3k5evcenhm6qjnyavt"
+  },
+  {
     "name": "Shino3_dev",
     "pubkey": "npub16r0pr27h0ewy2d6ezxrvqfcvztsukrc3da9sst726e4pqc7f95vsjd5pww"
   },
@@ -20,12 +52,92 @@
     "pubkey": "npub16u6jx85wavk5n0kw5r46ma7dunupsp7acmtn3xys7keqvlsfjxpsar5q5c"
   },
   {
+    "name": "Sabrina Hoxworth",
+    "pubkey": "npub16wde0fyrpr3r3s8essj3a3fucedgrwrct789ujglvaamq6q3lfps2mcccg"
+  },
+  {
+    "name": "Elliot Hargrove",
+    "pubkey": "npub173d4h25f4c88lapyr2z8qg5r08suvp275ukm99quh4g2eaf064eqwn96cf"
+  },
+  {
     "name": "Buzz Word",
     "pubkey": "npub17a50460j8y99yglsqzjzfh4exq4f8q0r82ackzzv4pz0dyd3rnwsxc9tp2"
   },
   {
+    "name": "Hugo Haverford",
+    "pubkey": "npub17kku5ufc0mg4ggr7hha6k43n4ka4sx2ss0kkedqpy893s40nl3tqf7pmr7"
+  },
+  {
+    "name": "Markov Chain",
+    "pubkey": "npub17qqekpej52c6wqmqlw84mkmlgp2ylz6xkryj3ccqk5vld4f7clys047uwf"
+  },
+  {
     "name": "やぶみちゃん",
     "pubkey": "npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r"
+  },
+  {
+    "name": "Jasper Haldin",
+    "pubkey": "npub189hufx897x3rvtew0apa8frkf4rzl9g73zsd5auwzlyk9furyeyszv7wum"
+  },
+  {
+    "name": "びー",
+    "pubkey": "npub18ee7ggjpp4uf77aurecqhtfpz5y0j95pd9hadrdsxt5we3pysnnqe8k224"
+  },
+  {
+    "name": "どこどこ台風bot",
+    "pubkey": "npub18na495jsuyfz05juxzenq300c2gsz7efhc4rh9mnkkeclr4g26gq0jtk29"
+  },
+  {
+    "name": "Gwen Jaskolka",
+    "pubkey": "npub1928muzt54mqmhhqj450ga3h4sqp6glnmt3athluu63eslrn457lqj7aqzk"
+  },
+  {
+    "name": "うにゅう",
+    "pubkey": "npub19we2h0793y4hhk500r2ndqkez0xf53rtghs3j20sjdwclh7tgz7s36kl6t"
+  },
+  {
+    "name": "Tara Huxley",
+    "pubkey": "npub1aau9auxpfzu6l856xh9knmluapfk7f7suys8wkm53khgqwaljq2qg4x7qf"
+  },
+  {
+    "name": "Clara Jennings",
+    "pubkey": "npub1ag7r8dpf6dwhn45eq08dhpajjla6gy26lw2z4qnx26359l5m4evstutdgs"
+  },
+  {
+    "name": "Ostrich-70",
+    "pubkey": "npub1chadadwep45t4l7xx9z45p72xsxv7833zyy4tctdgh44lpc50nvsrjex2m"
+  },
+  {
+    "name": "チュンチュン",
+    "pubkey": "npub1chunacswmcejn8ge95vzl22a2g6pd4nfchygslnt9gj9dshqcvqq5amrlj"
+  },
+  {
+    "name": "React Reference Bot",
+    "pubkey": "npub1cktfz62n0gf098mq7c4np4g35s6ex42p30ae5ar8d2w32zd24kdqa3j6m7"
+  },
+  {
+    "name": "Mira Halstead",
+    "pubkey": "npub1crrzcrpsur8gqkpvpey3echlylx4rzz048gpzjwg6032qkysrvds0zd2nl"
+  },
+  {
+    "name": "給付金10万円は今",
+    "pubkey": "npub1d53pdz8rau597a60w73z544ywj2w2xz72rl4zfttvl7ujga20w2q9htvnj"
+  },
+  {
+    "name": "DMM Bitcoinは保証にいくら要るかbot",
+    "pubkey": "npub1dmm45k2893hseq997gtnnfa9p6dsswlee80fp2j0hjlcwfyhk98q0pfmwj"
+  },
+  {
+    "name": "Elowen Silverleaf",
+    "pubkey": "npub1dru5ulpeuehznjwtr6m4f8627pdkuhdeefuw0spr8mqjjds67y6qnqxzng"
+  },
+  {
+    "name": "Calvin Hargrove",
+    "pubkey": "npub1duh7k603erjlwa6kx9vwjcx35nzg85ejg6kll84ph4dszzm330wqpqtu5y"
+  },
+  {
+    "name": "TESTNET•GIT•BAF",
+    "pubkey": "npub1esq86t9c2y34k7dlpc4nxy3l8r00mfuem3v2ht3ffsmvw2uz27ns9znqmw"
   },
   {
     "name": "AWS News Bot JP",
@@ -36,12 +148,120 @@
     "pubkey": "npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc"
   },
   {
+    "name": "TESTNET•ENG•BAH",
+    "pubkey": "npub1f9wu4uxlg8ww2vcdsh8q5tfyczddc0l2jcq906rs4627hcdutrhqd5a233"
+  },
+  {
+    "name": "うかフィード",
+    "pubkey": "npub1feed6x4yft54j7rwzcap34wxkf7rzpd50ps0vcnp04df3vjs7a5sc2vcgx"
+  },
+  {
+    "name": "Warren Greeley",
+    "pubkey": "npub1fkvw0qmcr9e0tz5g06szclhjqqdna7xquf7988dmlfzxaxxafwlscwepcs"
+  },
+  {
+    "name": "プライムビデオ新着",
+    "pubkey": "npub1fqaxs7cce5e4qzu9pewaklf5tjtvyslnx0p9s6jhkmaruw2q3cjs9cs5m6"
+  },
+  {
+    "name": "俳句bot",
+    "pubkey": "npub1ft7qy8qrf4huyk48nz0jf7parw3pfjs24az7py80ex8ympnqw6csz85fxu"
+  },
+  {
+    "name": "TESTNET•GIT•BAM",
+    "pubkey": "npub1ftzlzdjyqr2ateszxnnme9jhplx2xc0qs6he6tq5g7pfm47w7akqpvfqh6"
+  },
+  {
+    "name": "MDN Docs Bot",
+    "pubkey": "npub1fuffhzfv7xdrm5htde4mp9e5n6ywn763cq6mzxtetyqvsg66kkasp9zzyz"
+  },
+  {
+    "name": "ゴーストキャプターさくら（伺かゴースト更新フィード）",
+    "pubkey": "npub1gcs9jtw8k0r7z0c5zaaepzwm9m7ezqskqjn56swgylye78u39r7q2w0tzq"
+  },
+  {
+    "name": "Paige Harlow",
+    "pubkey": "npub1gmm2r2ne03q3p3ddsxluscp6x9q6947tpled7ntfcvpm9tkfpnpqfj4khl"
+  },
+  {
+    "name": "Fiona Jaspers",
+    "pubkey": "npub1gtrprp28cdhge6pvu6vhl2knf75r9g42f5f4refxhyqqufpdrz9sdpq2ds"
+  },
+  {
+    "name": "Baldric Ironhammer",
+    "pubkey": "npub1guf23tnz7j90gweyp5kv2yhh4rpfur02fm4grw3592vzhsx6xehq8rskct"
+  },
+  {
+    "name": "Lexa",
+    "pubkey": "npub1gz5p26mufdevplukc6htqvvn57khf44vt35qgj77hmfdr0zf6q0skyvqty"
+  },
+  {
+    "name": "Elara Jernigan",
+    "pubkey": "npub1h3d7tgt4fg05pxwalur0867x24d73yeqa7742n3aj4l4x4m6drxqdkg3n8"
+  },
+  {
+    "name": "The Oracle of Whimsy",
+    "pubkey": "npub1hmcnd8pr4tnctdemc8gt78yzmqh9utkx6zn95jyr66rr8m7d5t8sknjy08"
+  },
+  {
+    "name": "Olivia Harrow",
+    "pubkey": "npub1hsd7ns3cedpvjs0fer0dlvrep8umus4nh6xrydf0jyu4mgkfvujskf504s"
+  },
+  {
+    "name": "雀卓",
+    "pubkey": "npub1j0ng5hmm7mf47r939zqkpepwekenj6uqhd5x555pn80utevvavjsfgqem2"
+  },
+  {
+    "name": "TESTNET•GIT•BAW",
+    "pubkey": "npub1j7qx3jtqnmpafq9vka3wlcdwn49t9syvqje7tqds22u0qden05yspcgq0m"
+  },
+  {
+    "name": "Ivy Jorvik",
+    "pubkey": "npub1jmgpya42fsqpranfelqvds8u68x92tcy8ew8zgqhuxz79xdwuslsg83zu8"
+  },
+  {
+    "name": "Uma Halloway",
+    "pubkey": "npub1jncnhtjgwkq3tj9n2cw2qha8p9j8dr4a74cy4zl3mcr8v7ze3fesl02zsd"
+  },
+  {
+    "name": "TESTNET•ENG•BAB",
+    "pubkey": "npub1jrgpmp3u7ppk4g7km06zaqlxyt60k6z06c2nqdcehka6v67fngaqfrs0mn"
+  },
+  {
+    "name": "NIPs Changes",
+    "pubkey": "npub1k2s2288t7runm5rmw83pldgq5yn896402um2mz5tr9uqp6c6nvuqxrwnyz"
+  },
+  {
+    "name": "BTC/JPY",
+    "pubkey": "npub1k85xlsgh2f29htk45pwjw7zqtdr233up7zta59wcxy9vaxq3cgsqfauhu5"
+  },
+  {
+    "name": "Lumina",
+    "pubkey": "npub1k97r5gn26cp9snnxtwv78jfpwgdr7llqgt8zt7mpm0v5cmng8wpqqvy89r"
+  },
+  {
+    "name": "Ian Haskill",
+    "pubkey": "npub1kdh78c7vut5apjde028udtcl2z06fthfk5ndp9fmmny83hhhsdksfaaq9s"
+  },
+  {
     "name": "甘林老木",
     "pubkey": "npub1kguwzdsfrjcpe5skqmdvrgh4q06sfelgulr4mx8ualfs4mggfgwqn52fyc"
   },
   {
+    "name": "Neon Noir",
+    "pubkey": "npub1m5yedg8w2zk3qkg4tprcdpz3m5d0kqkzd998zpd2y05gqzdtgl8srhht6z"
+  },
+  {
+    "name": "まきび",
+    "pubkey": "npub1mk8snrd9039re0s0l8h6ke26npq0wk0w4h2vx6huqxqda8w9d7hs6h4jg8"
+  },
+  {
     "name": "New Monacard",
     "pubkey": "npub1mw9mq63qxynpae2pn85n9ty8f5tattpxzmlv0z4yl9uvat4wtfkqexqtal"
+  },
+  {
+    "name": "n0ttybot",
+    "pubkey": "npub1n0ttycj99vzzcnq9t8m5v5yyq0dzuwdxdktpmm8z6x9rh4j24y2snjxgfc"
   },
   {
     "name": "search",
@@ -52,12 +272,60 @@
     "pubkey": "npub1namazu7um9xvgfpax6yrk9tl3segxpgac67jx7cuttzqp7usem9sqavlhz"
   },
   {
+    "name": "Vera Hullen",
+    "pubkey": "npub1nd3ymn2vh93vctgegypwcme7akhqp9k86g0sddgecpjw6xrzcnaq7ludcq"
+  },
+  {
     "name": "時報",
     "pubkey": "npub1ndvt2nvmdjcl8gplawz9d676a42s45d8hecaawgqtmpv95uwj0csfe662g"
   },
   {
+    "name": "Tristan Galloway",
+    "pubkey": "npub1nqv9mmgs5asj6jwtyjpvv20jrpdxcy2yv8k5gw9aapajwy0p48jqpcsand"
+  },
+  {
+    "name": "Jasper Grimwald",
+    "pubkey": "npub1nurqzyw6kxzme3v33cre3s86jgmfsc2a5yp65zje49gvr3mjpy7snw0rux"
+  },
+  {
+    "name": "Nargun Deepforge",
+    "pubkey": "npub1p6vxjr5qlyh9p00jjv5lf02w0pvrxcd0nkpefmfpnzu3y4trhf5que3t4n"
+  },
+  {
     "name": "サーモンアラートシステム",
     "pubkey": "npub1p92agfqsynk3lv8mturqwaq68wpvat55qsf72e3j97wkrnyy9hhsxczd3x"
+  },
+  {
+    "name": "日本人ユーザー (bot)",
+    "pubkey": "npub1pp79ruvjd7xned8lgh6n4rhz4pg3els3x5n6kr58l8zcyysp5c0qrkan2p"
+  },
+  {
+    "name": "名言画像 bot",
+    "pubkey": "npub1psztp4ewrnntks87ehkxeuvx5kpaspnk7hens6ycr3u7uptndsuskn58dc"
+  },
+  {
+    "name": "Xena Huxley",
+    "pubkey": "npub1q34y68sgxy08a9rnzv3cau39y6laskjsy8jw92p6derkahl3kjmq6dpmda"
+  },
+  {
+    "name": "今日は何の日",
+    "pubkey": "npub1q6ptkv6tlljf58ndalf9pc5vvhqhxl50xwwnjnjqef4dlunusjmqyp7qmf"
+  },
+  {
+    "name": "Helia Galenwood",
+    "pubkey": "npub1qeqhetz2d6jp3efmkwrjutwmyr9639ulenzrpd3jxpwl97x920gsknk6em"
+  },
+  {
+    "name": "Ulrich Galloway",
+    "pubkey": "npub1qtksyetz7z86zv75y4njmeu82ewq326pvq6rgsk7jv0d5g94yzxqdull7u"
+  },
+  {
+    "name": "Liam Hargrove",
+    "pubkey": "npub1qvc7kkyrsspacgm299qstsvdrhmk5ywjl7jwppq8d5e39zk8762qupm3v4"
+  },
+  {
+    "name": "リンリン",
+    "pubkey": "npub1rnrnclxznfkqqu8nnpt0mwp4hj0xe005mnwjqlafaluv7n2kn80sy53aq2"
   },
   {
     "name": "I RUN CODE",
@@ -72,12 +340,92 @@
     "pubkey": "npub1slszekg4rjlknw3qy69z5s3h45hnnlrrrjt9tr3ffjsqtpj8wsfqfgh8l7"
   },
   {
+    "name": "まいへや",
+    "pubkey": "npub1sm73eqxq0h4mc0ge9ymhkfx5haj6skhjdzh3tndz4n8y2n0kwzlq57nl7v"
+  },
+  {
+    "name": "りとりん",
+    "pubkey": "npub1srtr60ty7pnvjg60la832mjutk86z3vmhvuc02cncme7sutnz4mqxrlt58"
+  },
+  {
+    "name": "Mahjong Game",
+    "pubkey": "npub1ttqyyl8stz9wtj0sn25qp6vah0jdcxwpdtaaxg4efsqkczz7rsxshjpp3x"
+  },
+  {
+    "name": "Darius Huxley",
+    "pubkey": "npub1u8yh9vr2dcv20qctut4fy89d73pz2h4vuuyaw5urgppfyt9yqdwq3j6k4m"
+  },
+  {
+    "name": "Milo Grieves",
+    "pubkey": "npub1udeepgra7f9mrmlafp4etzt9zmngh4ty9kzcr8t63fd884w3q55q44nr33"
+  },
+  {
+    "name": "NutriYogi",
+    "pubkey": "npub1uds3k0dqcjecsp0qglz5gzjh32z0pulrdnkg84m8e66y4st9kuwqxdyku7"
+  },
+  {
+    "name": "Ava Jorin",
+    "pubkey": "npub1v20fahsh44msy4ty7amjrcr6v79t6mddkfdtx06mxgrqdzs29ktsgnsdcc"
+  },
+  {
+    "name": "Nora Havelock",
+    "pubkey": "npub1v3yq3kjrz80ghjuxn5c7xk56rnd295ffwzdj3kpe7gj2x7v2gx9qkawmx0"
+  },
+  {
+    "name": "Golang News",
+    "pubkey": "npub1v75w6lnkc7derm3nvddd45rnl9rxkvh0yyeh8taj7vcdlta8plmqdp2g4e"
+  },
+  {
+    "name": "Icarus Grimwood",
+    "pubkey": "npub1vjkvlkvx7c5va0n398yhhvs5zc0pcrya3r8cggca8x688ll0eduqjv4qth"
+  },
+  {
+    "name": null,
+    "pubkey": "npub1w3w2x7zshh046wrzzq5m8c6sh6qmv4wkmw7hq6mzlgq55zxk0nwqcqsvkk"
+  },
+  {
     "name": "ビットコインの推奨手数料を通知するボット",
     "pubkey": "npub1w7g33p5hrljhnl37f7gdnhr7j87dwjzsms59x6qllutk2jepszgs65t8dc"
   },
   {
+    "name": "TESTNET•GIT•BAG",
+    "pubkey": "npub1wavsw9qaw5unehjx37x23jj972js3vty77aygm2cg6umpue9dp4sad7ejv"
+  },
+  {
+    "name": "Hot Post Ranking",
+    "pubkey": "npub1waxx0074rc7pldfw3znwe6ysjp30fehqacdclyc5m75z0ay8gk0qq2gujl"
+  },
+  {
     "name": "iroiroBOT",
     "pubkey": "npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv"
+  },
+  {
+    "name": "ホワンホワン",
+    "pubkey": "npub1whanysx54uf9tgjfeueljg3498kyru3rhwxajwuzh0nw0x0eujss9tlcjh"
+  },
+  {
+    "name": "Nyx",
+    "pubkey": "npub1x6de3sgetyxcuy33gselmusptcas9cwe93rpv642c436qrdzwu0sukyywl"
+  },
+  {
+    "name": "Willa Hargrove",
+    "pubkey": "npub1x7ynf6x82x0hjcv9pfyc3e5ydklczh6xle3xchd5wgkry3v5t2nsnpg0xz"
+  },
+  {
+    "name": "Harlan Quinsy",
+    "pubkey": "npub1x8x5c2cpyatcanpuqq3zl7wdatxzqm5gssccum4qg3tek4407hasvahs7h"
+  },
+  {
+    "name": null,
+    "pubkey": "npub1x99pfthj7gsfh4nygqrrry2glrjlq52c2sp7lw30tlr78n3qgs3smj6agh"
+  },
+  {
+    "name": "Quirk",
+    "pubkey": "npub1xwex5vf0zk2wchupussp4h5gh8p9vs798vry9vlm7y25c8593g3svereh9"
+  },
+  {
+    "name": "Yara Hyland",
+    "pubkey": "npub1y2zacad0zm7ug9jeqn6w5900h7hmele40dr45a685uw6hxnxkyyqscst94"
   },
   {
     "name": "Status of relay.nostr.wirednet.jp",
@@ -86,6 +434,18 @@
   {
     "name": "Foresight News",
     "pubkey": "npub1yfdayudzpzp4y9zj58v4vj5enqw687jae9yc7gtsjwrhy6p9lnyq4fvg3f"
+  },
+  {
+    "name": "Eldrin",
+    "pubkey": "npub1z7p7zh6st8rqq3e3clxh4wfym8rqtxz7y2p952lxhl834gd5fgpq5pdkzy"
+  },
+  {
+    "name": null,
+    "pubkey": "npub1z82rzf3uarde84x6ltsxnqg32g4ujny82eyu7w73v6xvmel54fhs74c662"
+  },
+  {
+    "name": "TESTNET•ENG•BAC",
+    "pubkey": "npub1zlq2x8hck0uvlupf55mavxzzwpf2plkgd3rdqvwnk8fz02pvmgkqk344zr"
   },
   {
     "name": "新着ニュース",

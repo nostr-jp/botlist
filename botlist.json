@@ -1,4 +1,13 @@
+null
 [
+  {
+    "name": "不審者情報",
+    "pubkey": "npub120hur8kpufu44h6qll50ywaesxk2qxvek295hm4x0ur7cgqj8jvq7pqksp"
+  },
+  {
+    "name": "wordcloud",
+    "pubkey": "npub14htwadwsnle0d227mptfy6r7pcwl7scs3dhwvnmagd8u7s5rg6vslde86r"
+  },
   {
     "name": "流速ちゃん",
     "pubkey": "npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv"
@@ -8,44 +17,68 @@
     "pubkey": "npub16r0pr27h0ewy2d6ezxrvqfcvztsukrc3da9sst726e4pqc7f95vsjd5pww"
   },
   {
-    "name": "ぬるぽ",
-    "pubkey": "npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc"
-  },
-  {
-    "name": "buzzword",
-    "pubkey": "npub17a50460j8y99yglsqzjzfh4exq4f8q0r82ackzzv4pz0dyd3rnwsxc9tp2"
-  },
-  {
-    "name": "classmethod",
+    "name": "DevelopersIO RSS feed【非公式】",
     "pubkey": "npub16u6jx85wavk5n0kw5r46ma7dunupsp7acmtn3xys7keqvlsfjxpsar5q5c"
   },
   {
-    "name": "ビットコインの推奨手数料を通知するボット",
-    "pubkey": "npub1w7g33p5hrljhnl37f7gdnhr7j87dwjzsms59x6qllutk2jepszgs65t8dc"
+    "name": "Buzz Word",
+    "pubkey": "npub17a50460j8y99yglsqzjzfh4exq4f8q0r82ackzzv4pz0dyd3rnwsxc9tp2"
   },
   {
-    "name": "I RUN CODE",
-    "pubkey": "npub1runc0de8jlttarfj5zaej0qeu6v8vh7446mxc0ncs4cxj0qytkrsqskp0s"
-  },
-  {
-    "name": "ランキング",
+    "name": "やぶみちゃん",
     "pubkey": "npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r"
   },
   {
-    "name": "時報",
-    "pubkey": "npub1ndvt2nvmdjcl8gplawz9d676a42s45d8hecaawgqtmpv95uwj0csfe662g"
+    "name": "AWS News Bot JP",
+    "pubkey": "npub1f2pt6hez06wxruvfscjgdnw0rqmhwhcukm2dc59y48l3gkmpw08qezvgv8"
+  },
+  {
+    "name": "ぬるぽ・ｶﾞｯ",
+    "pubkey": "npub1f6rvmwc76arl7sxx2vparlzx8cg2ajc3xpymqh7yx97znccue2hs5mkavc"
+  },
+  {
+    "name": "甘林老木",
+    "pubkey": "npub1kguwzdsfrjcpe5skqmdvrgh4q06sfelgulr4mx8ualfs4mggfgwqn52fyc"
+  },
+  {
+    "name": "New Monacard",
+    "pubkey": "npub1mw9mq63qxynpae2pn85n9ty8f5tattpxzmlv0z4yl9uvat4wtfkqexqtal"
+  },
+  {
+    "name": "search",
+    "pubkey": "npub1n2uhxrph9fgyp3u2xxqxhuz0vykt8dw8ehvw5uaesl0z4mvatpas0ngm26"
   },
   {
     "name": "なまずくん",
     "pubkey": "npub1namazu7um9xvgfpax6yrk9tl3segxpgac67jx7cuttzqp7usem9sqavlhz"
   },
   {
-    "name": "交通情報",
-    "pubkey": "npub1zwd3a5phvnqsu7ttjqkndd2arqspd7trltw52jxfnrppsuhkdv5q75tfh5"
+    "name": "時報",
+    "pubkey": "npub1ndvt2nvmdjcl8gplawz9d676a42s45d8hecaawgqtmpv95uwj0csfe662g"
   },
   {
-    "name": "甘林老木",
-    "pubkey": "npub1kguwzdsfrjcpe5skqmdvrgh4q06sfelgulr4mx8ualfs4mggfgwqn52fyc"
+    "name": "サーモンアラートシステム",
+    "pubkey": "npub1p92agfqsynk3lv8mturqwaq68wpvat55qsf72e3j97wkrnyy9hhsxczd3x"
+  },
+  {
+    "name": "I RUN CODE",
+    "pubkey": "npub1runc0de8jlttarfj5zaej0qeu6v8vh7446mxc0ncs4cxj0qytkrsqskp0s"
+  },
+  {
+    "name": "小泉進次郎bot",
+    "pubkey": "npub1shnjrjegvfp48heaw43qgsz44f4uffk50pe4cq73xj5fcmd4qydqy3r4l6"
+  },
+  {
+    "name": "じほう",
+    "pubkey": "npub1slszekg4rjlknw3qy69z5s3h45hnnlrrrjt9tr3ffjsqtpj8wsfqfgh8l7"
+  },
+  {
+    "name": "ビットコインの推奨手数料を通知するボット",
+    "pubkey": "npub1w7g33p5hrljhnl37f7gdnhr7j87dwjzsms59x6qllutk2jepszgs65t8dc"
+  },
+  {
+    "name": "iroiroBOT",
+    "pubkey": "npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv"
   },
   {
     "name": "Status of relay.nostr.wirednet.jp",
@@ -56,43 +89,11 @@
     "pubkey": "npub1yfdayudzpzp4y9zj58v4vj5enqw687jae9yc7gtsjwrhy6p9lnyq4fvg3f"
   },
   {
-    "name": "NHK NEWS",
+    "name": "新着ニュース",
     "pubkey": "npub1ztfvnuxfaw8c0y4ca794pyfpskwajz3h08c67vy0hfstevweuyrsw0e4ve"
   },
   {
-    "name": "AWS News",
-    "pubkey": "npub1f2pt6hez06wxruvfscjgdnw0rqmhwhcukm2dc59y48l3gkmpw08qezvgv8"
-  },
-  {
-    "name": "進次郎",
-    "pubkey": "npub1shnjrjegvfp48heaw43qgsz44f4uffk50pe4cq73xj5fcmd4qydqy3r4l6"
-  },
-  {
-    "name": "Monacard",
-    "pubkey": "npub1mw9mq63qxynpae2pn85n9ty8f5tattpxzmlv0z4yl9uvat4wtfkqexqtal"
-  },
-  {
-    "name": "時報",
-    "pubkey": "npub1slszekg4rjlknw3qy69z5s3h45hnnlrrrjt9tr3ffjsqtpj8wsfqfgh8l7"
-  },
-  {
-    "name": "サーモンアラート",
-    "pubkey": "npub1p92agfqsynk3lv8mturqwaq68wpvat55qsf72e3j97wkrnyy9hhsxczd3x"
-  },
-  {
-    "name": "不審者情報",
-    "pubkey": "npub120hur8kpufu44h6qll50ywaesxk2qxvek295hm4x0ur7cgqj8jvq7pqksp"
-  },
-  {
-    "name": "WordCloud",
-    "pubkey": "npub14htwadwsnle0d227mptfy6r7pcwl7scs3dhwvnmagd8u7s5rg6vslde86r"
-  },
-  {
-    "name": "iroiroBot",
-    "pubkey": "npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv"
-  },
-  {
-    "name": "search",
-    "pubkey": "npub1n2uhxrph9fgyp3u2xxqxhuz0vykt8dw8ehvw5uaesl0z4mvatpas0ngm26"
+    "name": "🚃鉄道運行情報(関東)",
+    "pubkey": "npub1zwd3a5phvnqsu7ttjqkndd2arqspd7trltw52jxfnrppsuhkdv5q75tfh5"
   }
 ]

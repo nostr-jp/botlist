@@ -12,4 +12,4 @@ cat botlist.txt | while read LINE; do
   else
     jo "pubkey=$LINE" "name=$DISPLAY_NAME"
   fi
-done | jq --sort-keys -n '., [inputs]' > botlist.json
+done | jq --sort-keys --slurp '.' > botlist.json

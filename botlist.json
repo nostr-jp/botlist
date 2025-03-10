@@ -72,6 +72,10 @@
     "pubkey": "npub17qqekpej52c6wqmqlw84mkmlgp2ylz6xkryj3ccqk5vld4f7clys047uwf"
   },
   {
+    "name": "おじさん",
+    "pubkey": "npub17wzc932fhtgjhxuy057er0wtpxe5nx2jy4hfjxlj6mw3ka0vw7fs6qkdf5"
+  },
+  {
     "name": "やぶみちゃん",
     "pubkey": "npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r"
   },
@@ -102,6 +106,10 @@
   {
     "name": "Clara Jennings",
     "pubkey": "npub1ag7r8dpf6dwhn45eq08dhpajjla6gy26lw2z4qnx26359l5m4evstutdgs"
+  },
+  {
+    "name": "NHKニュース (RSS Feed)",
+    "pubkey": "npub1c3k3a6nf4u2nme0jsgdvj4t9dqzgdr8aj0nglr88q9nltdtqh49sehml6g"
   },
   {
     "name": "Ostrich-70",
@@ -154,6 +162,10 @@
   {
     "name": "うかフィード",
     "pubkey": "npub1feed6x4yft54j7rwzcap34wxkf7rzpd50ps0vcnp04df3vjs7a5sc2vcgx"
+  },
+  {
+    "name": "てすたろう",
+    "pubkey": "npub1fgl20prs9s7ejrh0udadywd8c7q9x2ah0hu7auq32un4zg22xpdsj6q8xm"
   },
   {
     "name": "Warren Greeley",
@@ -324,6 +336,10 @@
     "pubkey": "npub1qvc7kkyrsspacgm299qstsvdrhmk5ywjl7jwppq8d5e39zk8762qupm3v4"
   },
   {
+    "name": "シラス@QZQSM",
+    "pubkey": "npub1qzqsm64qe0ju82kdlxk6ual5f57rcdfxt9kg9e6x0t8kjzgtlz6s3ufm9a"
+  },
+  {
     "name": "リンリン",
     "pubkey": "npub1rnrnclxznfkqqu8nnpt0mwp4hj0xe005mnwjqlafaluv7n2kn80sy53aq2"
   },
@@ -378,6 +394,10 @@
   {
     "name": "Icarus Grimwood",
     "pubkey": "npub1vjkvlkvx7c5va0n398yhhvs5zc0pcrya3r8cggca8x688ll0eduqjv4qth"
+  },
+  {
+    "name": "nostarou",
+    "pubkey": "npub1vunr7c6v9ed8v6qg2dz5w8xaha4c52vumq745zhhv6rtlv0vu44suj8sw9"
   },
   {
     "name": "Felix Harkins",

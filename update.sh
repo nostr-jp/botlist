@@ -1,5 +1,6 @@
 #!/bin/bash
 
+export PATH=$HOME/bin:$HOME/go/bin:$PATH
 cat botlist.txt | while read LINE; do
   if [ ! -e $LINE.json ]; then
     PK=$(nak decode $LINE | jq -r .pubkey)

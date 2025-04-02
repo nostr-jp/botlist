@@ -80,8 +80,16 @@
     "pubkey": "npub17qqekpej52c6wqmqlw84mkmlgp2ylz6xkryj3ccqk5vld4f7clys047uwf"
   },
   {
+    "name": "nipscheck",
+    "pubkey": "npub17sysrj0cgny7jtplj50dtzmjng49sxw0st6eqsparpjc0gft07squxl7m4"
+  },
+  {
     "name": "おじさん",
     "pubkey": "npub17wzc932fhtgjhxuy057er0wtpxe5nx2jy4hfjxlj6mw3ka0vw7fs6qkdf5"
+  },
+  {
+    "name": "やぶみちゃん",
+    "pubkey": "npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r"
   },
   {
     "name": "やぶみちゃん",
@@ -312,6 +320,10 @@
     "pubkey": "npub1nurqzyw6kxzme3v33cre3s86jgmfsc2a5yp65zje49gvr3mjpy7snw0rux"
   },
   {
+    "name": "のすたろう",
+    "pubkey": "npub1nwzquyssngld942vwh58yfrwwmvk530um443w8w8y0h2cu3ju2dsl4hqsg"
+  },
+  {
     "name": "Nargun Deepforge",
     "pubkey": "npub1p6vxjr5qlyh9p00jjv5lf02w0pvrxcd0nkpefmfpnzu3y4trhf5que3t4n"
   },
@@ -436,8 +448,16 @@
     "pubkey": "npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv"
   },
   {
+    "name": "iroiroBOT",
+    "pubkey": "npub1wgpfshr7xjnur3ytj0vg922nc5jceu3xyp8vjklvanvrvrre995s5lrecv"
+  },
+  {
     "name": "ホワンホワン",
     "pubkey": "npub1whanysx54uf9tgjfeueljg3498kyru3rhwxajwuzh0nw0x0eujss9tlcjh"
+  },
+  {
+    "name": "らぼみちゃん",
+    "pubkey": "npub1wv4j0wu4tmtvz0xazrpdypezs6fujtxyq0jwawdu0zd5ly6453zskl2sa0"
   },
   {
     "name": "Nyx",
@@ -466,6 +486,10 @@
   {
     "name": "Yara Hyland",
     "pubkey": "npub1y2zacad0zm7ug9jeqn6w5900h7hmele40dr45a685uw6hxnxkyyqscst94"
+  },
+  {
+    "name": "topickapp (IT技術系ニュースサイト)",
+    "pubkey": "npub1y6qr0pl5l9g6djm69su4gevpg2kwu8d69cc5ehnhl8pzea2nl53qhdmp7f"
   },
   {
     "name": "Status of relay.nostr.wirednet.jp",

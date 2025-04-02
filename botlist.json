@@ -36,6 +36,10 @@
     "pubkey": "npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv"
   },
   {
+    "name": "流速ちゃん",
+    "pubkey": "npub150qnaaxfan8auqdajvn292cgk2khm3tl8dmakamj878z44a6yntqk7uktv"
+  },
+  {
     "name": "Nolan Grafton",
     "pubkey": "npub15a220cqt23ge29kjv67rhjs09l4ly268afpar0vruk2dkd09t3fqllpe6f"
   },
@@ -186,6 +190,10 @@
   {
     "name": "Warren Greeley",
     "pubkey": "npub1fkvw0qmcr9e0tz5g06szclhjqqdna7xquf7988dmlfzxaxxafwlscwepcs"
+  },
+  {
+    "name": "プライムビデオ新着",
+    "pubkey": "npub1fqaxs7cce5e4qzu9pewaklf5tjtvyslnx0p9s6jhkmaruw2q3cjs9cs5m6"
   },
   {
     "name": "プライムビデオ新着",
@@ -514,6 +522,10 @@
   {
     "name": "新着ニュース",
     "pubkey": "npub1ztfvnuxfaw8c0y4ca794pyfpskwajz3h08c67vy0hfstevweuyrsw0e4ve"
+  },
+  {
+    "name": "🚃鉄道運行情報(関東)",
+    "pubkey": "npub1zwd3a5phvnqsu7ttjqkndd2arqspd7trltw52jxfnrppsuhkdv5q75tfh5"
   },
   {
     "name": "🚃鉄道運行情報(関東)",

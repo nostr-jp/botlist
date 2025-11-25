@@ -1,14 +1,12 @@
-name: Deploy botlist.json to GitHub Pages
+name: Deploy botlist
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
     paths:
-      - 'botlist.json'
-      - 'botlist.txt'
-      - '.github/workflows/publish.yaml'
-
+      - botlist.json
+      - botlist.txt
+      - .github/workflows/publish.yaml
   workflow_dispatch:
 
 permissions:
@@ -16,35 +14,21 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: pages
-  cancel-in-progress: false
-
 jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Verify botlist.json exists
-        run: |
-          if [ ! -f botlist.json ]; then
-            exit 1
-          fi
+      - run: |
+          mkdir -p _site
+          [ -f botlist.json ] && cp botlist.json _site/
+          [ -f botlist.txt ]  && cp botlist.txt  _site/
 
-      - name: Setup GitHub Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v3
         with:
-          path: _site/
+          path: _site
 
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - uses: actions/deploy-pages@v4

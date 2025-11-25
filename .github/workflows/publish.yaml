@@ -7,7 +7,7 @@ on:
     paths:
       - 'botlist.json'
       - 'botlist.txt'
-      - '.github/workflows/publish.yaml
+      - '.github/workflows/publish.yaml'
 
   workflow_dispatch:
 

@@ -72,12 +72,20 @@
     "pubkey": "npub15klex9f43xty0h7dpp6rsjkhmptwc8wglmvjmaa8rvq30ayp7q6srls9vt"
   },
   {
+    "name": "Takashi Syoji",
+    "pubkey": "npub15vqsg0nthnn3ta6cxn3w5ezmngantpuyt8962eg6gajwygka5zsqx32ttp"
+  },
+  {
     "name": "🔫狙撃屋13bot🔫",
     "pubkey": "npub163qhxuj7sf4hagnzrayrfypfh5cld2lshcqzqsqpqc53fy6m87sqlrvjv9"
   },
   {
     "name": "Jasmine Josslyn",
     "pubkey": "npub1662gxg2ng2c3xrkat0lqctjgyuwg78ddz68sx28q3k5evcenhm6qjnyavt"
+  },
+  {
+    "name": "切り取り線",
+    "pubkey": "npub16lqn68ku8c96vw4hfwzek2qflg2up6948q3hmj9azedn79x0udjswv9mkv"
   },
   {
     "name": "Shino3_dev",
@@ -112,6 +120,10 @@
     "pubkey": "npub17kmmlflaz7quvd5wk79kjp0tx0h2vxg7nh870my2hyz4ylyuzm3s6hayfx"
   },
   {
+    "name": "5 minute bitcoin fee bot",
+    "pubkey": "npub17q7l84qnggcyyrxl0t9mxhuk5f2zgfpyd2c99w3ycmlvdfx57emqazk5dk"
+  },
+  {
     "name": "Markov Chain",
     "pubkey": "npub17qqekpej52c6wqmqlw84mkmlgp2ylz6xkryj3ccqk5vld4f7clys047uwf"
   },
@@ -140,6 +152,10 @@
     "pubkey": "npub18gpcv8kwacztkrydzu2t4u74s3h9vnfl5ydp330k552m207vnnyqxs2j5d"
   },
   {
+    "name": "切り取り線",
+    "pubkey": "npub18n3t28w23dnmd8qved7x5gnyxlmahnzy5vjzdecw2trcxdhuwtrsl9utdy"
+  },
+  {
     "name": "どこどこ台風bot",
     "pubkey": "npub18na495jsuyfz05juxzenq300c2gsz7efhc4rh9mnkkeclr4g26gq0jtk29"
   },
@@ -166,6 +182,10 @@
   {
     "name": "NHKONEニュース (RSS Feed)",
     "pubkey": "npub1c3k3a6nf4u2nme0jsgdvj4t9dqzgdr8aj0nglr88q9nltdtqh49sehml6g"
+  },
+  {
+    "name": "切り取り線",
+    "pubkey": "npub1cg7ndlkuc77ssjz7ehl2w3flm0k05n6xf42xq4q2u4rvpkpyhajs4c7xpz"
   },
   {
     "name": "Ostrich-70",
@@ -202,6 +222,10 @@
   {
     "name": "TESTNET•GIT•BAF",
     "pubkey": "npub1esq86t9c2y34k7dlpc4nxy3l8r00mfuem3v2ht3ffsmvw2uz27ns9znqmw"
+  },
+  {
+    "name": "30 minute bitcoin fee bot",
+    "pubkey": "npub1ew4hqa9q80ufclw3vgly9ej5p83erpnz4akxtl3w8ryjl70sh4ssud8n6t"
   },
   {
     "name": "AWS News Bot JP",
@@ -330,6 +354,18 @@
   {
     "name": "甘林老木",
     "pubkey": "npub1kguwzdsfrjcpe5skqmdvrgh4q06sfelgulr4mx8ualfs4mggfgwqn52fyc"
+  },
+  {
+    "name": "切り取り線",
+    "pubkey": "npub1kry27g267aj6zfxzp3hr0dypmu9kchjqd7t8c0gyy94mrpp3wjnqqg40t5"
+  },
+  {
+    "name": "切り取り線",
+    "pubkey": "npub1kx6pqkjkf2kaezhygzsmqw5v5rekupvj4mzs96z9zk2gjxd22t2s3r5pdt"
+  },
+  {
+    "name": null,
+    "pubkey": "npub1lnt6fv8r9ed7g6mlk8ehl96hmcsq509mwacl29ae2kmmdxz7qczse4tdt5"
   },
   {
     "name": null,
@@ -476,6 +512,10 @@
     "pubkey": "npub1u6j0u5aakylx0qp2wl8g0rmvfhhlp4vdl8f3g23n8wfqgx4faw5qvsq7z8"
   },
   {
+    "name": "10 minute bitcoin fee bot",
+    "pubkey": "npub1u7lcmtfkpq50q2ym0d975xsm628td4xk2gh6zlu40cxlhqu770dslk7jgm"
+  },
+  {
     "name": null,
     "pubkey": "npub1u8yh9vr2dcv20qctut4fy89d73pz2h4vuuyaw5urgppfyt9yqdwq3j6k4m"
   },
@@ -486,6 +526,14 @@
   {
     "name": "NutriYogi",
     "pubkey": "npub1uds3k0dqcjecsp0qglz5gzjh32z0pulrdnkg84m8e66y4st9kuwqxdyku7"
+  },
+  {
+    "name": "関連漫画を売りつけるロボ",
+    "pubkey": "npub1ur9pa83tulgwwcgcs8wp7hsckw89pf2tm889h3k8tj000e30x89qm5lklu"
+  },
+  {
+    "name": "Ȼħ!łłꞤθⱳ𐏑",
+    "pubkey": "npub1uwjejfyn8j0e7t0cx3ys2h4nsk83fq8a6rz7mw2a7z97mnfwvcjqcvaxfl"
   },
   {
     "name": "紫苑",

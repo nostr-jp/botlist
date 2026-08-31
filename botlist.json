@@ -12,6 +12,10 @@
     "pubkey": "npub107ammg3j2msqmtmwwf7xgfecslnzwnt567x6jwhsa5pvzzzd8ghs9spw02"
   },
   {
+    "name": "Madrid",
+    "pubkey": "npub109yr8efclu4vhy2f5umv7qknp34wqq3vwmfd64d40e2qmshecucs6qge6l"
+  },
+  {
     "name": "Kieran Halstead",
     "pubkey": "npub10u3f6y43se8r04vmdlukgyqhphxfcjyeujkrtnufghua6qlwgemqkpsg59"
   },
@@ -610,6 +614,10 @@
   {
     "name": "Zara Hargrove",
     "pubkey": "npub1x99pfthj7gsfh4nygqrrry2glrjlq52c2sp7lw30tlr78n3qgs3smj6agh"
+  },
+  {
+    "name": "Lycurgus",
+    "pubkey": "npub1x9cyqeujhmgyymf7hw7spq3tmp74v9xv7g0kz0sn5wj9uhghe2ks2pkufz"
   },
   {
     "name": "こていたんえんしゅうぼっと",

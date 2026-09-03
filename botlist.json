@@ -16,6 +16,10 @@
     "pubkey": "npub109yr8efclu4vhy2f5umv7qknp34wqq3vwmfd64d40e2qmshecucs6qge6l"
   },
   {
+    "name": "Cleomenes",
+    "pubkey": "npub10gsmnqyyatr0ehksw6eh7zw6r4h8mgasg2qetyem69j736v5k26qvavxlw"
+  },
+  {
     "name": "Nostr Summary",
     "pubkey": "npub10l479fv64qn03a3n0dqsryu74tyzl48xef0nc7u0z09q8tfx72ls7sv2ux"
   },
@@ -66,6 +70,10 @@
   {
     "name": "Agis",
     "pubkey": "npub14m5a0tyng06guqpn0fae04llf57hsa76ewelenxqmn32sxewq5pqs44pu2"
+  },
+  {
+    "name": "paolo",
+    "pubkey": "npub14rhtypfa4h5gvcjfd3rghyk5yh3svzh5mse0cdazt27fnc6uwf5sqcfdk3"
   },
   {
     "name": "503 bot",
@@ -384,12 +392,20 @@
     "pubkey": "npub1kx6pqkjkf2kaezhygzsmqw5v5rekupvj4mzs96z9zk2gjxd22t2s3r5pdt"
   },
   {
+    "name": "Eros",
+    "pubkey": "npub1lev3t6tutxcxw25qx5da9e9gn52pf3t2yhn5a2um967fq99ggqas00p4pk"
+  },
+  {
     "name": null,
     "pubkey": "npub1lnt6fv8r9ed7g6mlk8ehl96hmcsq509mwacl29ae2kmmdxz7qczse4tdt5"
   },
   {
     "name": null,
     "pubkey": "npub1m5yedg8w2zk3qkg4tprcdpz3m5d0kqkzd998zpd2y05gqzdtgl8srhht6z"
+  },
+  {
+    "name": "Flavio",
+    "pubkey": "npub1m8pwe9m9fp0h7wdpkkwyaa6h3pua95tepqmyuyp3z2wv0de0dykspnhldc"
   },
   {
     "name": "(・～・)mogmog bot",
@@ -414,6 +430,10 @@
   {
     "name": "なまずくん",
     "pubkey": "npub1namazu7um9xvgfpax6yrk9tl3segxpgac67jx7cuttzqp7usem9sqavlhz"
+  },
+  {
+    "name": "Mary",
+    "pubkey": "npub1navajytuu3rk3npv7fvhx4z4m040rguwulys4mquthjwz220ze4st9wsmz"
   },
   {
     "name": null,
@@ -656,8 +676,16 @@
     "pubkey": "npub1xr4jdgh7htsuraq8y34pufv3kc5mz2h9h0r9lv9a9t0xeuctvp6smrfyy8"
   },
   {
+    "name": "Dionysius",
+    "pubkey": "npub1xs70w8egcmvnc4n5gj2qdmm3sns3w3smxw2cdrm94ajxe39zlhdsayglhg"
+  },
+  {
     "name": null,
     "pubkey": "npub1xwex5vf0zk2wchupussp4h5gh8p9vs798vry9vlm7y25c8593g3svereh9"
+  },
+  {
+    "name": "Tony",
+    "pubkey": "npub1xxzu9etw6qxh53nh3sjpmzeq6njp67efaf2n3v73jnma5f4t8yls0zjmrh"
   },
   {
     "name": null,
@@ -694,6 +722,10 @@
   {
     "name": "新着ニュース",
     "pubkey": "npub1ztfvnuxfaw8c0y4ca794pyfpskwajz3h08c67vy0hfstevweuyrsw0e4ve"
+  },
+  {
+    "name": "Pausanias",
+    "pubkey": "npub1zts39yyc85n2y2qnqu3gex87z3sce64a5cffqra9hxaxnyr86v8qp3hjgn"
   },
   {
     "name": "🚃鉄道運行情報(関東)",

@@ -60,6 +60,10 @@
     "pubkey": "npub13z3xmpdc0366wnt9valywxxyzmq3373rzgsk7gam02mem74jy95q6ghnlq"
   },
   {
+    "name": "Publickey 配信 (非公式)",
+    "pubkey": "npub144q65dqf0wwdzk3jtzhk6qpuygasm4nke4g4vw60yq5s2clzea4qzfdppm"
+  },
+  {
     "name": "GaySexSpyVoyeur",
     "pubkey": "npub14cklgree5w09ju4f36dw55rgn78gzy4an6pnjcsz48ttjw7v050sv5jptq"
   },
@@ -340,6 +344,10 @@
     "pubkey": "npub1j7qx3jtqnmpafq9vka3wlcdwn49t9syvqje7tqds22u0qden05yspcgq0m"
   },
   {
+    "name": "todo bot",
+    "pubkey": "npub1jdelt5c8400d3qf4v4x5ns0xywgymw7f8rgfx07zp2qpys50du4sm5jkhj"
+  },
+  {
     "name": "時報 bot",
     "pubkey": "npub1jlh0u43dasvsgnzlwrwujxf578h76d5j97nn55v46xs9z7hzg6hsmt5756"
   },
@@ -400,12 +408,20 @@
     "pubkey": "npub1lnt6fv8r9ed7g6mlk8ehl96hmcsq509mwacl29ae2kmmdxz7qczse4tdt5"
   },
   {
+    "name": "もの画像",
+    "pubkey": "npub1lxrlhyrfdl9sjdvx9xhwhag4d6s95sz3q8z09kgzp0cz73l2ffys9p726u"
+  },
+  {
     "name": null,
     "pubkey": "npub1m5yedg8w2zk3qkg4tprcdpz3m5d0kqkzd998zpd2y05gqzdtgl8srhht6z"
   },
   {
     "name": "Flavio",
     "pubkey": "npub1m8pwe9m9fp0h7wdpkkwyaa6h3pua95tepqmyuyp3z2wv0de0dykspnhldc"
+  },
+  {
+    "name": "なに切る",
+    "pubkey": "npub1m923fzrg2kczznsnt22xm7kexmeta6slqgnd2yhtn0maxj3kr56sgvlgew"
   },
   {
     "name": "(・～・)mogmog bot",
@@ -488,6 +504,10 @@
     "pubkey": "npub1q6ptkv6tlljf58ndalf9pc5vvhqhxl50xwwnjnjqef4dlunusjmqyp7qmf"
   },
   {
+    "name": "エンジニアの楽園 vim-jp ラジオ",
+    "pubkey": "npub1q7ngar9h8ave99hhaaven32rc7djwkjsgvtwr673qcrh7fp4qmqslcny0n"
+  },
+  {
     "name": "Helia Galenwood",
     "pubkey": "npub1qeqhetz2d6jp3efmkwrjutwmyr9639ulenzrpd3jxpwl97x920gsknk6em"
   },
@@ -510,6 +530,10 @@
   {
     "name": "リンリン",
     "pubkey": "npub1rnrnclxznfkqqu8nnpt0mwp4hj0xe005mnwjqlafaluv7n2kn80sy53aq2"
+  },
+  {
+    "name": "Yahoo!ニュース 速報 配信 (非公式)",
+    "pubkey": "npub1rtlhfx7welx2lc0v734tyhcx79q0r5vdcgaj28w7tr4nez5rmwpshndwys"
   },
   {
     "name": "I RUN CODE",
@@ -570,6 +594,10 @@
   {
     "name": "Brasidas",
     "pubkey": "npub1unwhj63u0rv493gflwtez3yuzhyr0kjqsegdfghmetqvgtmr68gskwdujj"
+  },
+  {
+    "name": "runbot",
+    "pubkey": "npub1uq7u244ays60e7dt9lktu9994yptq6ka4uhanqz4ceex4ayv2g2sxdgrtd"
   },
   {
     "name": "関連漫画を売りつけるロボ",
@@ -662,6 +690,10 @@
   {
     "name": "こていたんえんしゅうぼっと",
     "pubkey": "npub1xcd3uz43jazshaqty0ephe3xhnqruf7u9m8gjvw5t93j2rmp8sks8tl23l"
+  },
+  {
+    "name": "けだまメイズ",
+    "pubkey": "npub1xcg0hwzwnyqlnzhnjuenlrtvlpxsexmztqeqfc5e3dg7ymss8jts0wptyw"
   },
   {
     "name": "魔界塔士Bit・Co",

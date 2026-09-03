@@ -64,6 +64,10 @@
     "pubkey": "npub14htwadwsnle0d227mptfy6r7pcwl7scs3dhwvnmagd8u7s5rg6vslde86r"
   },
   {
+    "name": "Agis",
+    "pubkey": "npub14m5a0tyng06guqpn0fae04llf57hsa76ewelenxqmn32sxewq5pqs44pu2"
+  },
+  {
     "name": "503 bot",
     "pubkey": "npub1503k6jatw82tde7kfu3tpkzjzu9mjkdy9wtdc9nafpe7z7ejg8dqla6xt4"
   },
@@ -544,6 +548,10 @@
     "pubkey": "npub1uds3k0dqcjecsp0qglz5gzjh32z0pulrdnkg84m8e66y4st9kuwqxdyku7"
   },
   {
+    "name": "Brasidas",
+    "pubkey": "npub1unwhj63u0rv493gflwtez3yuzhyr0kjqsegdfghmetqvgtmr68gskwdujj"
+  },
+  {
     "name": "関連漫画を売りつけるロボ",
     "pubkey": "npub1ur9pa83tulgwwcgcs8wp7hsckw89pf2tm889h3k8tj000e30x89qm5lklu"
   },
@@ -638,6 +646,10 @@
   {
     "name": "魔界塔士Bit・Co",
     "pubkey": "npub1xm9j2a92fzck98kufj2qaddhef27e5vzh3d67ytkvxc9vnfm9h4sd5yqjh"
+  },
+  {
+    "name": "sarah",
+    "pubkey": "npub1xnfxr8ngwgpkpp2g9qex69y5zh5k899hd2fa0sg824k40ewsmx5qrf9mlc"
   },
   {
     "name": " 日本語JLPT文法",
